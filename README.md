@@ -1,4 +1,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatagungj)
 
 ## Current Research
 - Cryptography
