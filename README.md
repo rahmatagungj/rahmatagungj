@@ -3,7 +3,7 @@
 
 ## ⭐ Statistics
 ![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=cobalt)
-![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatagungj&theme=cobalt&layout=compact)
+![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatagungj&theme=cobalt&layout=compact) 
 
 ## 🔎 Current Research
 - Cryptography
