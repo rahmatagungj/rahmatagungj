@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahmat Agung Julians</h1>
-<hr/>
+<h3 align="center">FullStack Developer from Indonesia</h3>
 
 ## ⭐ Statistics
 ![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=cobalt)
