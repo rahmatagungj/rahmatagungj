@@ -9,21 +9,21 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>Cryptography System</span><br><br> 
-        <img height="64px" src="https://img.icons8.com/nolan/64/data-encryption.png">
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/nolan/64/data-encryption.png"><br/>
+         <span>Cryptography</span>
       </td>
       <td width="25%" align="center">
-        <span>Artificial Intelligence</span><br><br> 
-        <img height="64px" src="https://img.icons8.com/nolan/64/artificial-intelligence.png">
+        <img height="64px" src="https://img.icons8.com/nolan/64/artificial-intelligence.png"><br>
+        <span>Artificial Intelligence</span>
       </td>
       <td width="25%" align="center">
-        <span>Machine Learning</span><br><br> 
-        <img height="64px" src="https://img.icons8.com/nolan/64/learning.png">
+        <img height="64px" src="https://img.icons8.com/nolan/64/learning.png"><br/>
+        <span>Machine Learning</span>
       </td>
       <td width="25%" align="center">
-        <span>Cloud Computing</span><br><br> 
-        <img height="64px" src="https://img.icons8.com/nolan/64/cloud-sync.png">
+        <img height="64px" src="https://img.icons8.com/nolan/64/cloud-sync.png"><br/> 
+        <span>Cloud Computing</span>
       </td>
     </tr>
   </tbody>
