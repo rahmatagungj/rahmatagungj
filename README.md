@@ -6,9 +6,28 @@
 ![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatagungj&theme=cobalt&layout=compact) 
 
 ## 🔎 Current Research
-- Cryptography
-- Artificial Intelligence
-- Machine Learning
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span>Cryptography System</span><br><br> 
+        <img height="64px" src="https://img.icons8.com/nolan/64/data-encryption.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Artificial Intelligence</span><br><br> 
+        <img height="64px" src="https://img.icons8.com/nolan/64/artificial-intelligence.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Machine Learning</span><br><br> 
+        <img height="64px" src="https://img.icons8.com/nolan/64/learning.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Cloud Computing</span><br><br> 
+        <img height="64px" src="https://img.icons8.com/nolan/64/cloud-sync.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📦 Current Project
 - TOKE ( <a href="https://github.com/rahmatagungj/toke">Two Original Key Encryption</a> )
