@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer from Indonesia</h3>
 
 ## ⭐ Statistics
-![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=cobalt)
-![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatagungj&theme=cobalt&layout=compact) 
+![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=nightowl)
+![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Slims9-Kuningan&layout=compact&theme=nightowl) 
 
 ## 🔎 Current Research
 <table>
