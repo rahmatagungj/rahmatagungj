@@ -36,6 +36,8 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend - Situs KPU Mahasiswa STKIP Muhammadiyah Kuningan](https://rahmatagungjulians.tech//blog/frontend-kpu-stkip)
+- [Backend - Situs KPU Mahasiswa STKIP Muhammadiyah Kuningan](https://rahmatagungjulians.tech//blog/backend-kpu-stkip)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Languages and Tools  
