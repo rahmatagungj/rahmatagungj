@@ -34,6 +34,10 @@
 ## 📦 Current Project
 - TOKE ( <a href="https://github.com/rahmatagungj/toke">Two Original Key Encryption</a> )
 
+## 📕 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🛠 Languages and Tools  
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
