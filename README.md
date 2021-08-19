@@ -36,6 +36,7 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Menyelam Lebih Dalam Solid JS](https://rahmatagungjulians.tech//blog/menyelam-lebih-dalam-solid-js)
 - [Frontend - Situs KPU Mahasiswa STKIP Muhammadiyah Kuningan](https://rahmatagungjulians.tech//blog/frontend-kpu-stkip)
 - [Backend - Situs KPU Mahasiswa STKIP Muhammadiyah Kuningan](https://rahmatagungjulians.tech//blog/backend-kpu-stkip)
 <!-- BLOG-POST-LIST:END -->
