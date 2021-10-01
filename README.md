@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rahmat Agung Julians</h1>
 <h3 align="center">Full Stack Developer from Indonesia</h3>
 
+- 💻 Currently working fulltime at [dicoding.com](https://www.dicoding.com)
+
 ## ⭐ Statistics
 ![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=nightowl)
 ![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Slims9-Kuningan&layout=compact&theme=nightowl) 
