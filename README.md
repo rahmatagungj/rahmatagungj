@@ -38,11 +38,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Berhentilah Membuang Waktu Anda](https://rahmatagungjulians.tech/blog/berhentilah-membuang-waktu-anda)
 - [Cara Saya Belajar Pemrograman](https://rahmatagungjulians.tech/blog/cara-saya-belajar-pemrograman)
 - [Terima Kasih Tahun 2021](https://rahmatagungjulians.tech/blog/terima-kasih-tahun-2021)
 - [Tentang Saya 1 Tahun Bersama Progate](https://rahmatagungjulians.tech/blog/progate)
 - [Menyelam Lebih Dalam Solid JS](https://rahmatagungjulians.tech/blog/menyelam-lebih-dalam-solid-js)
-- [Frontend - Situs KPU Mahasiswa STKIP Muhammadiyah Kuningan](https://rahmatagungjulians.tech/blog/frontend-kpu-stkip)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Languages and Tools  
