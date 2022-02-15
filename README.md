@@ -34,7 +34,7 @@
 </table>
 
 ## 📦 Current Project
-- TOKE ( <a href="https://github.com/rahmatagungj/toke">Two Original Key Encryption</a> )
+- <a href="https://github.com/rahmatagungj/clean-architecture-js">Clean Architecture Javascript</a>
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
