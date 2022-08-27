@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Rahmat Agung Julians</h1>
-<h3 align="center">Full Stack Developer from Indonesia</h3>
+<h3 align="center">Software Engineer from Indonesia</h3>
 
 - 💻 Currently working fulltime at [dicoding.com](https://www.dicoding.com)
 
