@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner.png)
+![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner-new.png)
 
 <h1 align="center">Hi 👋, I'm Rahmat Agung Julians</h1>
 <h3 align="center">Software Engineer from Indonesia</h3>
