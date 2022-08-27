@@ -1,9 +1,6 @@
 ![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner-new.png)
 
-<h1 align="center">Hi 👋, I'm Rahmat Agung Julians</h1>
-<h3 align="center">Software Engineer from Indonesia</h3>
-
-- 💻 Currently working fulltime at [dicoding.com](https://www.dicoding.com)
+<h3 align="center">💻 Currently working fulltime at Dicoding Indonesia</h3>
 
 ## ⭐ Statistics
 ![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=nightowl)
