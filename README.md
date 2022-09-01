@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner-new.png)
 
-<h3 align="center">💻 Currently working fulltime at Dicoding Indonesia</h3>
+<h3 align="center">💻 Currently open to Work</h3>
 
 ## ⭐ Statistics
 ![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=nightowl)
