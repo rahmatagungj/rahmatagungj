@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner-new.png)
+![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner-v2.png)
 
 <h3 align="center">💻 Developer Relations Engineer </h3>
 
