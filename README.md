@@ -2,10 +2,6 @@
 
 <h3 align="center">💻 Developer Relations Engineer </h3>
 
-## ⭐ Statistics
-![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatagungj&show_icons=true&theme=nightowl)
-![Rahmat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Slims9-Kuningan&layout=compact&theme=nightowl) 
-
 ## 🔎 Current Research
 <table>
   <tbody>
