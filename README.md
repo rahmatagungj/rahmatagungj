@@ -33,11 +33,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mendapatkan Karier Anda Lebih Cepat Dengan Bootcamp](https://rahmatagungjulians.tech/blog/mendapatkan-karier-anda-lebih-cepat-dengan-bootcamp)
 - [Cara Saya Shutdown Pikiran Sebelum Tidur](https://rahmatagungjulians.tech/blog/cara-saya-shutdown-pikiran-sebelum-tidur)
 - [Generalist Dan Specialist Untuk T-Shaped Engineer](https://rahmatagungjulians.tech/blog/generalist-dan-specialist-untuk-tshaped-engineer)
 - [6 Hal Dasar Untuk Berkembang Sebagai Engineer](https://rahmatagungjulians.tech/blog/6-hal-dasar-untuk-berkembang-sebagai-engineer)
 - [Cara Saya Menjadi Developer Relations Engineer](https://rahmatagungjulians.tech/blog/cara-saya-menjadi-developer-relations-engineer)
-- [Memahami Notasi Big O dengan Javascript](https://rahmatagungjulians.tech/blog/notasi-big-o-dengan-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Languages and Tools  
