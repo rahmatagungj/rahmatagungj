@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/rahmatagungj/rahmatagungj/main/banner-v2.png)
 
-<h3 align="center">Founder RAJS Digital & Developer Relations Engineer at Progate</h3>
+<h3 align="center">Founder RAJS Digital & Finance Manager at Toya</h3>
 
 ## 🔎 Current Research
 <table>
